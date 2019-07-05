@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -53,19 +53,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		672CC619F21EDF1E6B570EE3 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
 		A24B72AD22C56A710006BE0A = {
 			isa = PBXGroup;
 			children = (
 				A24B72B822C56A710006BE0A /* MooTime Creamery */,
 				A24B72B722C56A710006BE0A /* Products */,
-				672CC619F21EDF1E6B570EE3 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
