@@ -3,27 +3,43 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A2128C1922C7FB7C00B04FC7 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2128C1822C7FB7C00B04FC7 /* CardView.swift */; };
+		A231606D22CC5E4A00045BB6 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A231606C22CC5E4A00045BB6 /* BlurView.swift */; };
 		A24B72BA22C56A710006BE0A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72B922C56A710006BE0A /* AppDelegate.swift */; };
 		A24B72BC22C56A710006BE0A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72BB22C56A710006BE0A /* SceneDelegate.swift */; };
-		A24B72BE22C56A710006BE0A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72BD22C56A710006BE0A /* ContentView.swift */; };
+		A24B72BE22C56A710006BE0A /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72BD22C56A710006BE0A /* DetailView.swift */; };
 		A24B72C022C56A730006BE0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24B72BF22C56A730006BE0A /* Assets.xcassets */; };
 		A24B72C322C56A730006BE0A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A24B72C222C56A730006BE0A /* Preview Assets.xcassets */; };
 		A24B72C622C56A730006BE0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A24B72C422C56A730006BE0A /* LaunchScreen.storyboard */; };
+		A24B72CF22C571AB0006BE0A /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = A24B72CE22C571AB0006BE0A /* data.json */; };
+		A24B72D222C577950006BE0A /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72D122C577950006BE0A /* Data.swift */; };
+		A24B72D422C577E80006BE0A /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72D322C577E80006BE0A /* Product.swift */; };
+		A24B72D822C59BD70006BE0A /* StarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A24B72D722C59BD70006BE0A /* StarsView.swift */; };
+		A262B39822C7F0DB009B7E93 /* ProductList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A262B39722C7F0DB009B7E93 /* ProductList.swift */; };
+		A2708CAC22C8848700E3544C /* CartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2708CAB22C8848700E3544C /* CartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A2128C1822C7FB7C00B04FC7 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		A231606C22CC5E4A00045BB6 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
 		A24B72B622C56A710006BE0A /* MooTime Creamery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MooTime Creamery.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A24B72B922C56A710006BE0A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A24B72BB22C56A710006BE0A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		A24B72BD22C56A710006BE0A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A24B72BD22C56A710006BE0A /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		A24B72BF22C56A730006BE0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A24B72C222C56A730006BE0A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A24B72C522C56A730006BE0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A24B72C722C56A730006BE0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A24B72CE22C571AB0006BE0A /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		A24B72D122C577950006BE0A /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		A24B72D322C577E80006BE0A /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		A24B72D722C59BD70006BE0A /* StarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarsView.swift; sourceTree = "<group>"; };
+		A262B39722C7F0DB009B7E93 /* ProductList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductList.swift; sourceTree = "<group>"; };
+		A2708CAB22C8848700E3544C /* CartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,11 +53,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		672CC619F21EDF1E6B570EE3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		A24B72AD22C56A710006BE0A = {
 			isa = PBXGroup;
 			children = (
 				A24B72B822C56A710006BE0A /* MooTime Creamery */,
 				A24B72B722C56A710006BE0A /* Products */,
+				672CC619F21EDF1E6B570EE3 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +80,19 @@
 		A24B72B822C56A710006BE0A /* MooTime Creamery */ = {
 			isa = PBXGroup;
 			children = (
+				A24B72D022C577790006BE0A /* Model */,
 				A24B72B922C56A710006BE0A /* AppDelegate.swift */,
 				A24B72BB22C56A710006BE0A /* SceneDelegate.swift */,
-				A24B72BD22C56A710006BE0A /* ContentView.swift */,
+				A24B72BD22C56A710006BE0A /* DetailView.swift */,
+				A231606C22CC5E4A00045BB6 /* BlurView.swift */,
+				A262B39722C7F0DB009B7E93 /* ProductList.swift */,
+				A2128C1822C7FB7C00B04FC7 /* CardView.swift */,
+				A2708CAB22C8848700E3544C /* CartView.swift */,
+				A24B72D722C59BD70006BE0A /* StarsView.swift */,
 				A24B72BF22C56A730006BE0A /* Assets.xcassets */,
 				A24B72C422C56A730006BE0A /* LaunchScreen.storyboard */,
 				A24B72C722C56A730006BE0A /* Info.plist */,
+				A24B72CD22C56B200006BE0A /* Resources */,
 				A24B72C122C56A730006BE0A /* Preview Content */,
 			);
 			path = "MooTime Creamery";
@@ -73,6 +104,23 @@
 				A24B72C222C56A730006BE0A /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A24B72CD22C56B200006BE0A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A24B72CE22C571AB0006BE0A /* data.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A24B72D022C577790006BE0A /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A24B72D122C577950006BE0A /* Data.swift */,
+				A24B72D322C577E80006BE0A /* Product.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,6 +184,7 @@
 				A24B72C622C56A730006BE0A /* LaunchScreen.storyboard in Resources */,
 				A24B72C322C56A730006BE0A /* Preview Assets.xcassets in Resources */,
 				A24B72C022C56A730006BE0A /* Assets.xcassets in Resources */,
+				A24B72CF22C571AB0006BE0A /* data.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,9 +195,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2708CAC22C8848700E3544C /* CartView.swift in Sources */,
 				A24B72BA22C56A710006BE0A /* AppDelegate.swift in Sources */,
 				A24B72BC22C56A710006BE0A /* SceneDelegate.swift in Sources */,
-				A24B72BE22C56A710006BE0A /* ContentView.swift in Sources */,
+				A24B72D422C577E80006BE0A /* Product.swift in Sources */,
+				A262B39822C7F0DB009B7E93 /* ProductList.swift in Sources */,
+				A24B72BE22C56A710006BE0A /* DetailView.swift in Sources */,
+				A24B72D822C59BD70006BE0A /* StarsView.swift in Sources */,
+				A231606D22CC5E4A00045BB6 /* BlurView.swift in Sources */,
+				A2128C1922C7FB7C00B04FC7 /* CardView.swift in Sources */,
+				A24B72D222C577950006BE0A /* Data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
