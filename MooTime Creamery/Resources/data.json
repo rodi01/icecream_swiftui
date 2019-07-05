@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1001,
+    "name": "Strawberry",
+    "subname": "fairy",
+    "description": "We introduce sweet summer strawberries to pure cream and other natural ingredients. Because it's brimming with real fruit, the true flavor of our strawberries comes shining through.",
+    "imageName": "strawberry",
+    "reviewsCount": 170,
+    "ratings": 4,
+    "price": 4.99,
+    "backgroundColor": [ [255, 219, 243], [255, 191, 214] ],
+    "textColor": [170, 114, 123]
+  },
+  {
+      "id": 1002,
+      "name": "Mango",
+      "subname": "loco",
+      "description": "Our ode to the tropical flavors of South America combines sweet mango ice cream and slices of juicy mango for a simply perfect treat.",
+      "imageName": "mango",
+      "reviewsCount": 142,
+      "ratings": 5,
+      "price": 4.99,
+      "backgroundColor": [ [248, 236, 191], [254, 216, 82] ],
+      "textColor": [185, 149, 17]
+  },
+  {
+      "id": 1003,
+      "name": "Mocha",
+      "subname": "choco",
+      "description": "Somewhere between the creamy coffee coffee ice cream & the buzzbuzzbuzz of espresso fudge, it hits you: you’re wide awake & in lovelovelove.",
+      "imageName": "mocha",
+      "reviewsCount": 38,
+      "ratings": 4,
+      "price": 4.99,
+      "backgroundColor": [ [230, 188, 176], [230, 168, 176] ],
+      "textColor": [150, 117, 108]
+  },
+  {
+      "id": 1004,
+      "name": "Blueberry",
+      "subname": "wild",
+      "description": "Wild Maine Blueberry from the land of the puffin, now when we crave you we turn to the muffin.",
+      "imageName": "blueberry",
+      "reviewsCount": 63,
+      "ratings": 5,
+      "price": 4.99,
+      "backgroundColor": [ [149, 231, 235], [46, 222, 232] ],
+      "textColor": [0, 157, 166]
+  },
+  {
+      "id": 1005,
+      "name": "Vanilla",
+      "subname": "fairy",
+      "description": "When you dig into this pint, you’ll find a rich, creamy Vanilla that’s more vanilla-tasting than any Vanilla you’ve ever tasted.",
+      "imageName": "vanilla",
+      "reviewsCount": 170,
+      "ratings": 4,
+      "price": 4.99,
+      "backgroundColor": [ [252, 248, 240], [245, 239, 226] ],
+      "textColor": [203, 184, 169]
+  }
+]
